@@ -1,0 +1,109 @@
+2024-07-29 21:25:58,964 - root - INFO - Logging configured.
+2024-07-29 21:25:58,965 - root - INFO - Environment variables loaded.
+2024-07-29 21:25:58,966 - root - INFO - Logging configured.
+2024-07-29 21:25:58,966 - root - INFO - Environment variables loaded.
+2024-07-29 21:25:58,967 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-29 21:25:58,968 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-29 21:25:58,968 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-29 21:25:58,968 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-29 21:25:58,968 - root - INFO - Application exit.
+2024-07-29 21:25:58,968 - root - INFO - Application shutdown.
+2024-07-29 21:25:58,970 - root - INFO - Logging configured.
+2024-07-29 21:25:58,970 - root - INFO - Environment variables loaded.
+2024-07-29 21:25:58,970 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-29 21:25:58,971 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-29 21:25:58,971 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-29 21:25:58,971 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-29 21:25:58,971 - root - INFO - Application exit.
+2024-07-29 21:25:58,971 - root - INFO - Application shutdown.
+2024-07-29 21:25:58,974 - root - INFO - Logging configured.
+2024-07-29 21:25:58,975 - root - INFO - Environment variables loaded.
+2024-07-29 21:25:58,975 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-29 21:25:58,975 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-29 21:25:58,975 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-29 21:25:58,975 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-29 21:25:58,975 - root - INFO - Hello, World!
+2024-07-29 21:25:58,975 - root - INFO - Application exit.
+2024-07-29 21:25:58,975 - root - INFO - Application shutdown.
+2024-07-30 18:13:02,376 - root - INFO - Logging configured.
+2024-07-30 18:13:02,377 - root - INFO - Environment variables loaded.
+2024-07-30 18:13:02,380 - root - INFO - Logging configured.
+2024-07-30 18:13:02,380 - root - INFO - Environment variables loaded.
+2024-07-30 18:13:02,384 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:13:02,386 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:13:02,387 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-30 18:13:02,387 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-30 18:13:02,387 - root - INFO - Application exit.
+2024-07-30 18:13:02,387 - root - INFO - Application shutdown.
+2024-07-30 18:13:02,390 - root - INFO - Logging configured.
+2024-07-30 18:13:02,391 - root - INFO - Environment variables loaded.
+2024-07-30 18:13:02,391 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:13:02,391 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:13:02,391 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-30 18:13:02,391 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-30 18:13:02,391 - root - INFO - Application exit.
+2024-07-30 18:13:02,391 - root - INFO - Application shutdown.
+2024-07-30 18:13:02,395 - root - INFO - Logging configured.
+2024-07-30 18:13:02,395 - root - INFO - Environment variables loaded.
+2024-07-30 18:13:02,395 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:13:02,395 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:13:02,395 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-30 18:13:02,395 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-30 18:13:02,395 - root - INFO - Hello, World!
+2024-07-30 18:13:02,395 - root - INFO - Application exit.
+2024-07-30 18:13:02,395 - root - INFO - Application shutdown.
+2024-07-30 18:38:49,862 - root - INFO - Logging configured.
+2024-07-30 18:38:49,862 - root - INFO - Environment variables loaded.
+2024-07-30 18:38:49,864 - root - INFO - Logging configured.
+2024-07-30 18:38:49,864 - root - INFO - Environment variables loaded.
+2024-07-30 18:38:49,865 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:38:49,865 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:38:49,865 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-30 18:38:49,865 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-30 18:38:49,865 - root - INFO - Application exit.
+2024-07-30 18:38:49,865 - root - INFO - Application shutdown.
+2024-07-30 18:38:49,867 - root - INFO - Logging configured.
+2024-07-30 18:38:49,867 - root - INFO - Environment variables loaded.
+2024-07-30 18:38:49,867 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:38:49,867 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:38:49,867 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-30 18:38:49,867 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-30 18:38:49,868 - root - INFO - Application exit.
+2024-07-30 18:38:49,868 - root - INFO - Application shutdown.
+2024-07-30 18:38:49,869 - root - INFO - Logging configured.
+2024-07-30 18:38:49,869 - root - INFO - Environment variables loaded.
+2024-07-30 18:38:49,870 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:38:49,870 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:38:49,870 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-07-30 18:38:49,870 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-30 18:38:49,870 - root - INFO - Hello, World!
+2024-07-30 18:38:49,870 - root - INFO - Application exit.
+2024-07-30 18:38:49,870 - root - INFO - Application shutdown.
+2024-07-30 18:44:08,669 - root - INFO - Logging configured.
+2024-07-30 18:44:08,669 - root - INFO - Environment variables loaded.
+2024-07-30 18:44:08,671 - root - INFO - Logging configured.
+2024-07-30 18:44:08,671 - root - INFO - Environment variables loaded.
+2024-07-30 18:44:08,671 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:44:08,672 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:44:08,692 - root - INFO - Logging configured.
+2024-07-30 18:44:08,692 - root - INFO - Environment variables loaded.
+2024-07-30 18:44:08,693 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:44:08,693 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:44:08,701 - root - INFO - Logging configured.
+2024-07-30 18:44:08,701 - root - INFO - Environment variables loaded.
+2024-07-30 18:44:08,701 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:44:08,701 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:50:12,443 - root - INFO - Logging configured.
+2024-07-30 18:50:12,443 - root - INFO - Environment variables loaded.
+2024-07-30 18:50:12,445 - root - INFO - Logging configured.
+2024-07-30 18:50:12,445 - root - INFO - Environment variables loaded.
+2024-07-30 18:50:12,446 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:50:12,446 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:50:12,465 - root - INFO - Logging configured.
+2024-07-30 18:50:12,465 - root - INFO - Environment variables loaded.
+2024-07-30 18:50:12,465 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:50:12,465 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-30 18:50:12,473 - root - INFO - Logging configured.
+2024-07-30 18:50:12,473 - root - INFO - Environment variables loaded.
+2024-07-30 18:50:12,473 - root - ERROR - Error importing plugin csv: No module named 'pandas'
+2024-07-30 18:50:12,473 - root - INFO - Command 'data' from plugin 'data' registered.
