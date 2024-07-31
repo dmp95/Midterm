@@ -1,7 +1,7 @@
 from decimal import Decimal
 import pytest
 from faker import Faker
-from calculator import divide
+from app import divide
 from tests.test_utils import operation_dict
 from plugin_manager import PluginManager
 
