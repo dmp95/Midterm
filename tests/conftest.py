@@ -3,7 +3,7 @@ import pytest
 from faker import Faker
 from app import divide
 from tests.test_utils import operation_dict
-from plugin_manager import PluginManager
+from plugin_file import PluginManager
 
 fake = Faker()
 

@@ -107,3 +107,103 @@
 2024-07-30 18:50:12,473 - root - INFO - Environment variables loaded.
 2024-07-30 18:50:12,473 - root - ERROR - Error importing plugin csv: No module named 'pandas'
 2024-07-30 18:50:12,473 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-07-31 19:51:17,805 - root - INFO - Logging configured.
+2024-07-31 19:51:17,806 - root - INFO - Environment variables loaded.
+2024-07-31 19:51:17,808 - root - INFO - Logging configured.
+2024-07-31 19:51:17,808 - root - INFO - Environment variables loaded.
+2024-07-31 19:51:17,808 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 19:51:17,808 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 19:51:17,808 - root - INFO - Application exit.
+2024-07-31 19:51:17,808 - root - INFO - Application shutdown.
+2024-07-31 19:51:17,810 - root - INFO - Logging configured.
+2024-07-31 19:51:17,810 - root - INFO - Environment variables loaded.
+2024-07-31 19:51:17,810 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 19:51:17,810 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 19:51:17,810 - root - INFO - Application exit.
+2024-07-31 19:51:17,810 - root - INFO - Application shutdown.
+2024-07-31 19:51:17,811 - root - INFO - Logging configured.
+2024-07-31 19:51:17,811 - root - INFO - Environment variables loaded.
+2024-07-31 19:51:17,811 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 19:51:17,811 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 19:51:17,811 - root - INFO - Application exit.
+2024-07-31 19:51:17,811 - root - INFO - Application shutdown.
+2024-07-31 19:56:30,294 - root - INFO - Logging configured.
+2024-07-31 19:56:30,294 - root - INFO - Environment variables loaded.
+2024-07-31 19:56:30,296 - root - INFO - Logging configured.
+2024-07-31 19:56:30,296 - root - INFO - Environment variables loaded.
+2024-07-31 19:56:30,296 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 19:56:30,296 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 19:56:30,296 - root - INFO - Application exit.
+2024-07-31 19:56:30,296 - root - INFO - Application shutdown.
+2024-07-31 19:56:30,298 - root - INFO - Logging configured.
+2024-07-31 19:56:30,298 - root - INFO - Environment variables loaded.
+2024-07-31 19:56:30,298 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 19:56:30,298 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 19:56:30,298 - root - INFO - Application exit.
+2024-07-31 19:56:30,298 - root - INFO - Application shutdown.
+2024-07-31 19:56:30,299 - root - INFO - Logging configured.
+2024-07-31 19:56:30,299 - root - INFO - Environment variables loaded.
+2024-07-31 19:56:30,299 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 19:56:30,299 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 19:56:30,300 - root - INFO - Application exit.
+2024-07-31 19:56:30,300 - root - INFO - Application shutdown.
+2024-07-31 20:00:27,527 - root - INFO - Logging configured.
+2024-07-31 20:00:27,528 - root - INFO - Environment variables loaded.
+2024-07-31 20:00:27,529 - root - INFO - Logging configured.
+2024-07-31 20:00:27,529 - root - INFO - Environment variables loaded.
+2024-07-31 20:00:27,529 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:00:27,529 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:00:27,529 - root - INFO - Application exit.
+2024-07-31 20:00:27,529 - root - INFO - Application shutdown.
+2024-07-31 20:00:27,531 - root - INFO - Logging configured.
+2024-07-31 20:00:27,531 - root - INFO - Environment variables loaded.
+2024-07-31 20:00:27,531 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:00:27,531 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:00:27,531 - root - INFO - Application exit.
+2024-07-31 20:00:27,531 - root - INFO - Application shutdown.
+2024-07-31 20:00:27,532 - root - INFO - Logging configured.
+2024-07-31 20:00:27,533 - root - INFO - Environment variables loaded.
+2024-07-31 20:00:27,533 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:00:27,533 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:00:27,533 - root - INFO - Application exit.
+2024-07-31 20:00:27,533 - root - INFO - Application shutdown.
+2024-07-31 20:02:51,001 - root - INFO - Logging configured.
+2024-07-31 20:02:51,001 - root - INFO - Environment variables loaded.
+2024-07-31 20:02:51,003 - root - INFO - Logging configured.
+2024-07-31 20:02:51,003 - root - INFO - Environment variables loaded.
+2024-07-31 20:02:51,003 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:02:51,003 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:02:51,003 - root - INFO - Application exit.
+2024-07-31 20:02:51,003 - root - INFO - Application shutdown.
+2024-07-31 20:02:51,004 - root - INFO - Logging configured.
+2024-07-31 20:02:51,005 - root - INFO - Environment variables loaded.
+2024-07-31 20:02:51,005 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:02:51,005 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:02:51,005 - root - INFO - Application exit.
+2024-07-31 20:02:51,005 - root - INFO - Application shutdown.
+2024-07-31 20:02:51,006 - root - INFO - Logging configured.
+2024-07-31 20:02:51,006 - root - INFO - Environment variables loaded.
+2024-07-31 20:02:51,006 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:02:51,006 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:02:51,006 - root - INFO - Application exit.
+2024-07-31 20:02:51,006 - root - INFO - Application shutdown.
+2024-07-31 20:03:37,314 - root - INFO - Logging configured.
+2024-07-31 20:03:37,314 - root - INFO - Environment variables loaded.
+2024-07-31 20:03:37,316 - root - INFO - Logging configured.
+2024-07-31 20:03:37,316 - root - INFO - Environment variables loaded.
+2024-07-31 20:03:37,316 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:03:37,316 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:03:37,316 - root - INFO - Application exit.
+2024-07-31 20:03:37,316 - root - INFO - Application shutdown.
+2024-07-31 20:03:37,318 - root - INFO - Logging configured.
+2024-07-31 20:03:37,318 - root - INFO - Environment variables loaded.
+2024-07-31 20:03:37,318 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:03:37,318 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:03:37,318 - root - INFO - Application exit.
+2024-07-31 20:03:37,318 - root - INFO - Application shutdown.
+2024-07-31 20:03:37,319 - root - INFO - Logging configured.
+2024-07-31 20:03:37,319 - root - INFO - Environment variables loaded.
+2024-07-31 20:03:37,319 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-31 20:03:37,320 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-31 20:03:37,320 - root - INFO - Application exit.
+2024-07-31 20:03:37,320 - root - INFO - Application shutdown.
