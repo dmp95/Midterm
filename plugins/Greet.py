@@ -8,7 +8,7 @@ class GreetCommand(Command):
 		self.plugin_manager = plugin_manager
 
    	def execute(self. *args, **kwargs):
-		return " Calculator App "
+		return "Hello, World!"
 
 	def get_command_name(self):
 		return "Greet"
