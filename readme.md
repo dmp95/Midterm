@@ -2,70 +2,82 @@
 
 ## Introduction
 
-This midterm project required the creation of a new repository from scratch, development, and documentation of a functional Calculator app that meets specific requirements. The development process utilized techniques learned from lectures, employing WSL, VS Code, and GitHub.
+This project involved developing a Calculator app from scratch, including repository setup, application development, and documentation. The development process leveraged techniques from lectures and utilized tools such as WSL, VS Code, and GitHub.
 
 ## Design Patterns
 
-The following design patterns were implemented to ensure a modular, maintainable, and scalable design for the calculator app, enabling easy extension and modification of its functionality:
+The calculator app incorporates several design patterns to ensure a modular, maintainable, and scalable architecture. These patterns facilitate easy extension and modification of the app’s functionality:
 
 ### I. Factory Method Pattern
-- **Purpose**: Dynamically create instances of plugins.
-- **Implementation**: The `PluginManager` loads and creates instances of various plugins based on the files available in the plugin directories.
+- **Purpose**: To create plugin instances dynamically.
+- **Implementation**: The `PluginManager` is responsible for loading and instantiating plugins based on the available files in plugin directories.
 
 ### II. Singleton Pattern
-- **Purpose**: Ensure that only one instance of the `Calculations` history exists and is used throughout the application.
-- **Implementation**: While not a strict singleton, the design ensures a single shared state for the calculation history.
+- **Purpose**: To manage a single shared state for calculation history.
+- **Implementation**: Although not a strict singleton, the design ensures a unified state for calculation history across the application.
 
 ### III. Command Pattern
-- **Purpose**: Encapsulate commands as objects, allowing the application to parameterize clients with different requests, queue or log requests, and support undoable operations.
-- **Implementation**: Commands such as `add`, `subtract`, `multiply`, `divide`, and `exponent` are defined and encapsulated as objects.
+- **Purpose**: To encapsulate commands as objects, allowing for parameterization, logging, and support for undoable operations.
+- **Implementation**: Arithmetic operations such as `add`, `subtract`, `multiply`, `divide`, and `exponent` are encapsulated as command objects.
 
 ### IV. Strategy Pattern
-- **Purpose**: Encapsulate arithmetic operations within separate functions and make them interchangeable.
-- **Implementation**: The `Calculation` class uses these strategies to perform operations like `add`, `subtract`, `multiply`, `divide`, and `exponent`.
+- **Purpose**: To provide interchangeable arithmetic operations.
+- **Implementation**: The `Calculation` class utilizes different strategies for operations including `add`, `subtract`, `multiply`, `divide`, and `exponent`.
 
 ### V. Facade Pattern
-- **Purpose**: Provide a simplified interface to the complex subsystem of calculations and operations.
-- **Implementation**: The `Calculator` class hides the complexities of creating `Calculation` objects and managing calculation history.
+- **Purpose**: To simplify the interface to the complex calculation subsystem.
+- **Implementation**: The `Calculator` class abstracts the complexities involved in creating `Calculation` objects and managing history.
 
 ### VI. Decorator Pattern
-- **Purpose**: Suppress output during test execution.
-- **Implementation**: The `suppress_output_decorator` in `test_utils.py` wraps functions to temporarily redirect `stdout` and `stderr`.
-
-## Conclusion
-
-The implementation of these design patterns ensures that the calculator app is modular, maintainable, and scalable, allowing for easy extension and modification of its functionality.
-
-
+- **Purpose**: To suppress output during test execution.
+- **Implementation**: The `suppress_output_decorator` in `test_utils.py` temporarily redirects `stdout` and `stderr` to facilitate testing.
 
 ## Environment Variables
 
 ### Overview
 
-Environment variables play a crucial role in configuring the application, particularly for logging settings and API key management. This approach enhances security by keeping sensitive information out of the codebase and provides flexibility for configuration changes.
+Environment variables are utilized to manage logging configurations and API keys, enhancing security and flexibility by keeping sensitive information out of the codebase.
 
 ### I. Logging Configuration
-
-- **Location**: Defined in the `calculator/__init__.py` file.
-- **Purpose**: Environment variables are utilized to set up logging configurations dynamically.
+- **Location**: Configured in the `calculator/__init__.py` file.
+- **Purpose**: To set up logging settings dynamically using environment variables.
 
 ### II. API Key Management
-
 - **Location**: Managed in the `main.py` file.
-- **Purpose**: The `API_KEY` environment variable is used to handle API key configurations securely.
+- **Purpose**: To securely handle API key configurations using the `API_KEY` environment variable.
 
 ### Implementation Details
-
-- **.env File**: A `.env` file is included at the project root, containing the required environment variables.
+- **.env File**: Contains necessary environment variables and is located in the project root.
 - **Security**: The `.env` file is excluded from version control by Git to protect sensitive information.
 
-### Conclusion
+## Logging Functions
 
-By leveraging environment variables, the application maintains modularity, security, and ease of maintenance. This design pattern facilitates straightforward updates and extensions to the application’s functionality.
+### I. Basic Configuration
+- **Purpose**: To establish the logging setup.
+- **Implementation**: Configured with `basicConfig`, allowing dynamic log level and format based on environment variables.
 
+### II. Arithmetic Operations Logging
+- **Purpose**: To record details of each arithmetic operation.
+- **Implementation**: Logs operands and results of operations, along with errors such as division by zero.
 
+### III. Command Handling Logging
+- **Purpose**: To log user commands and execution results.
+- **Implementation**: Records commands executed by users, including command names and any encountered errors.
 
+### IV. Plugin Management Logging
+- **Purpose**: To track the loading of plugins.
+- **Implementation**: Logs plugin loading activities and any errors that occur during this process.
 
+## Error Handling Strategies
 
+### I. Look Before You Leap (LBYL)
+- **Example**: Preventing division by zero.
+- **Implementation**: Ensures the divisor is not zero before performing division operations.
 
-use of logging
+### II. Easier to Ask for Forgiveness than Permission (EAFP)
+- **Example**: Handling command execution errors.
+- **Implementation**: Executes commands within a try block and handles exceptions if they arise.
+
+## Conclusion
+
+The application of these design patterns, effective use of environment variables, thorough logging, and strategic error handling ensures that the calculator app is robust, modular, and scalable. This design facilitates easy updates and extensions to the application's functionality.
