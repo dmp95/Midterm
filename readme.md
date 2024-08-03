@@ -38,11 +38,33 @@ The implementation of these design patterns ensures that the calculator app is m
 
 
 
+## Environment Variables
+
+### Overview
+
+Environment variables play a crucial role in configuring the application, particularly for logging settings and API key management. This approach enhances security by keeping sensitive information out of the codebase and provides flexibility for configuration changes.
+
+### I. Logging Configuration
+
+- **Location**: Defined in the `calculator/__init__.py` file.
+- **Purpose**: Environment variables are utilized to set up logging configurations dynamically.
+
+### II. API Key Management
+
+- **Location**: Managed in the `main.py` file.
+- **Purpose**: The `API_KEY` environment variable is used to handle API key configurations securely.
+
+### Implementation Details
+
+- **.env File**: A `.env` file is included at the project root, containing the required environment variables.
+- **Security**: The `.env` file is excluded from version control by Git to protect sensitive information.
+
+### Conclusion
+
+By leveraging environment variables, the application maintains modularity, security, and ease of maintenance. This design pattern facilitates straightforward updates and extensions to the application’s functionality.
 
 
 
-
-use of environment variables
 
 
 
